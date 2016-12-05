@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="datagridview_text_max_length">60</integer>
+    <dimen name="datagridview_item_padding">2dp</dimen>
+    <dimen name="datagridview_default_font_size">10sp</dimen>
+</resources>
